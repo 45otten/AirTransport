@@ -2,6 +2,7 @@
 @tailwind components;
 @tailwind utilities;
 
+
 @layer base{
     .font-outline-1{
         -webkit-text-stroke: 2px #fff;
@@ -69,4 +70,5 @@
     textarea{
         resize: none;
     }
+
 }
